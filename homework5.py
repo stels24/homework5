@@ -7,6 +7,7 @@ print(my_list)
 
 
 my_dict = {"apple": "яблоко", "strawberry": "клубника", "orange": "апельсин", "grape": "виноград", "plum": "слива"}
+print(my_dict)
 print(my_dict ["strawberry"])
 my_dict["strawberry"] = "ягода"
 print(my_dict)
